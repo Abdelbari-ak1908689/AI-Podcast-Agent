@@ -136,8 +136,8 @@ User Input: "Create a podcast about quantum computing"
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Abdelbari-ak1908689/AI-Podcast-Agent.git
-cd test-Agent-2
+git clone https://github.com/Abdelbari-Kecita/AI-Podcast-Agent.git
+cd AI-Podcast-Agent
 
 # 2. Create virtual environment
 python3 -m venv venv
